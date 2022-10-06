@@ -1,0 +1,834 @@
+Oct 04 2022 14:29:55
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 04 2022 14:30:00
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 04 2022 14:36:25
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 04 2022 14:36:25
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 04 2022 14:36:25
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 04 2022 14:36:25
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 04 2022 14:36:25
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 04 2022 14:36:25
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 04 2022 14:36:26
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 04 2022 14:36:26
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 04 2022 14:36:26
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 04 2022 14:36:26
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 04 2022 14:36:26
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 04 2022 15:02:02
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:02
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:04
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:04
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:04
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:04
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:04
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:04
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:05
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:05
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:05
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Oct 04 2022 15:02:05
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:05
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:05
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:05
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:06
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:06
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:06
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:06
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:07
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:07
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:07
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:07
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:08
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:08
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:08
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:08
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:08
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:08
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:09
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:09
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:10
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:10
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:11
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:11
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:11
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:11
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:11
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:11
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:12
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 04 2022 15:02:12
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 04 2022 15:02:13
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 04 2022 15:02:13
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 04 2022 15:02:13
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 04 2022 15:02:13
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 04 2022 15:02:13
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 04 2022 15:02:13
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:13
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:14
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:14
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:14
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:14
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:02:14
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:02:14
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:20
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:20
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:21
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:21
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:21
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:21
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:22
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:22
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:23
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:23
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:23
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:23
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:23
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:23
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:23
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:23
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:24
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:24
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:26
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:26
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:28
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:28
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:28
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:28
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:28
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:28
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:28
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:28
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:29
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:29
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:30
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:30
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:30
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:30
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:31
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:05:31
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:05:31
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 04 2022 15:05:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 04 2022 15:05:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 04 2022 15:05:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 04 2022 15:05:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 04 2022 15:05:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 04 2022 15:05:32
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 04 2022 15:05:33
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 04 2022 15:05:33
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 04 2022 15:05:33
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 04 2022 15:05:33
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 04 2022 15:05:33
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 04 2022 15:14:40
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:40
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:43
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:43
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:43
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:43
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:43
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:43
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:44
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:44
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:44
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Oct 04 2022 15:14:44
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:44
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:44
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:44
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:45
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:45
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:45
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:45
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:46
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:46
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:46
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:46
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:47
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:47
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:47
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:47
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:47
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:47
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:47
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:48
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:49
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:49
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:50
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:50
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:50
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:50
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:51
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:51
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:51
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:51
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:52
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 04 2022 15:14:52
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 04 2022 15:14:52
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 04 2022 15:14:52
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 04 2022 15:14:52
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 04 2022 15:14:52
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 04 2022 15:14:53
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:53
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:54
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 04 2022 15:14:54
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 04 2022 15:14:54
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 04 2022 15:14:54
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 04 2022 15:14:54
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 04 2022 15:14:54
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:54
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:55
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:55
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:14:55
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:14:55
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:17
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:17
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:18
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:18
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:18
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:18
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:19
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:19
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:19
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:19
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:20
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:20
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:21
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:21
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:21
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:21
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:22
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:22
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:22
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:22
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:23
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:23
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:24
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:24
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:24
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:24
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:25
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:25
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:25
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:25
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:26
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:26
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:26
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:26
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:27
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:27
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:28
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:28
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:28
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:28
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:29
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:29
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:29
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:29
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:29
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:29
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:29
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:29
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:30
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:30
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:30
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:30
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:32
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:32
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:34
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:34
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:34
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:34
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:34
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:34
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:35
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:35
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:38
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:38
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:39
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:39
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:40
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:40
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:40
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:40
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:41
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:41
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:42
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 04 2022 15:16:42
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 04 2022 15:16:42
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 04 2022 15:16:42
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 04 2022 15:16:42
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 04 2022 15:16:42
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 04 2022 15:16:43
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 04 2022 15:16:43
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 04 2022 15:16:43
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 04 2022 15:16:43
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 04 2022 15:16:43
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 04 2022 15:16:44
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:44
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+
+Oct 04 2022 15:16:45
+{"Number":8192,"Message":"Return type of Elementor\\Core\\Logger\\Items\\Base::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\logger\\items\\base.php","Line":46}
+
+Oct 04 2022 15:16:45
+{"type":8192,"message":"Return type of Elementor\\Core\\Utils\\Collection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\website\\wp-content\\plugins\\elementor\\core\\utils\\collection.php","line":401}
+

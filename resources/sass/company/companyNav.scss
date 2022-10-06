@@ -1,0 +1,94 @@
+.company-nav, .dashboard-nav {
+    position: sticky;
+    top: 30px;
+    background: #f3f3f3;
+    margin: 20px 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+    .company-nav-header, .dashboard-nav-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 14px;
+ 
+        h3 {
+            font-size: 19px;
+            margin-bottom: 0;
+        }
+
+        a {
+            font-size: 14px;
+            color: $siteColor;
+            text-decoration: none;
+        }
+    }
+
+    .company-nav-items, .dashboard-nav-items {
+        margin: 0 10px;
+    }
+
+    .company-nav-item, .dashboard-nav-item {    
+        padding: 7px 10px;
+        border-radius: 5px;
+        font-size: 15px;
+        transition: .3s;
+
+        &.active {
+            background-color: $siteColor;
+            color: #fff;
+        }
+
+        &:hover {
+            background: $siteHoverColor;
+            color: #fff;
+
+            a {
+                color: #fff;
+            }
+        }
+        
+        &:not(:last-of-type) {
+            margin-bottom: 10px;
+        }
+        button,
+        a {
+            display: inline-block;
+            width: 100%;
+            text-align: left;
+        }
+
+        a {
+            color: #000;
+            text-decoration: none;
+        }
+    }
+}
+
+.underline{
+    position: relative;
+  }
+  
+  .underline::before{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 0;
+    height: 2px;
+    background-color: $siteColor;
+    transition: width 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+  }
+
+  button.custom-themed-button{
+    background-color: rgb(230,82,59);
+    color: #fff;
+  }
+  
+  @media (hover: hover) and (pointer: fine) {
+    .underline:hover::before{
+      left: 0;
+      right: auto;
+      width: 100%;
+    }
+  }

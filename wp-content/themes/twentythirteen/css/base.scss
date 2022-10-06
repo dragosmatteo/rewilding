@@ -1,0 +1,13 @@
+$base-red: red;
+$base-yellow: yellow;
+$base-black: rgb(0, 0, 0);
+
+// class
+
+.site-footer .widget {
+    background: #f0f0f0;
+    color: $base-black;
+    float: left;
+    margin-right: 20px;
+    width: 245px;
+}
