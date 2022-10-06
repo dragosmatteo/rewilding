@@ -1,0 +1,59 @@
+/*
+	Theme Name:   Your Child Theme Name
+	Theme URI:    https://yourdomain.com/
+	Description:  Your Description
+	Author:       Your Name
+	Author URI:   https://yourdomain.com/
+	Template:     twentythirteen
+	Version:      1.0.0
+	Text Domain:  twentythirteen-child
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600;800&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+.site-footer .sidebar-container {
+  background-color: #f2f2f2;
+  color: #000;
+}
+
+p {
+  color: #000;
+}
+
+.site-info {
+  display: none;
+}
+
+[class^="wp-block-"] figcaption,
+[class^="wp-block-"] figcaption.editor-rich-text__tinymce.mce-content-body {
+  font-style: normal;
+}
+
+.site-footer .widget a {
+  color: #000;
+}
+
+[class^="wp-block-"] figcaption {
+  font-style: normal;
+  font-size: 50px;
+}
+
+.sidebar .site-footer .widget {
+  width: 240px;
+}
+
+.wp-block-group:not(.alignfull):not(.alignwide)
+  > .wp-block-group__inner-container
+  > * {
+  width: 700px;
+}
